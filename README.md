@@ -19,6 +19,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayMaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,powershell)
 
 ---
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=54194385" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=54194385&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @SayMaven" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=54194385&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 [![](https://visitcount.itsvg.in/api?id=SayMaven&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 💰 Support My Projects
