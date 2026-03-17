@@ -28,8 +28,5 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-[![](https://visitcount.itsvg.in/api?id=SayMaven&icon=5&color=1)](https://visitcount.itsvg.in)
-
 ## 💰 Support My Projects
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/saymaven)
