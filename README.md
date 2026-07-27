@@ -15,6 +15,8 @@ Saat ini aku masih belajar lebih dalam tentang Data Science, Data Engineering, d
 
 > Waifuku adalah Yamato Maya dari seri BanG Dream!. Semua ide dan hobiku tak terlepas dari rasa suka dan sayangku terhadap Yamato Maya.
 
+![Yamato Maya](https://res.cloudinary.com/ds4a54vuy/image/upload/v1769879468/p4_%E9%BA%BB%E5%BC%A5%E3%81%A1%E3%82%83%E3%82%93%E8%89%B2%E3%80%85.png)
+
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/rdx.77) 
 [![Pixiv](https://img.shields.io/badge/Pixiv-%230096FA.svg?logo=pixiv&logoColor=white)](https://www.pixiv.net/users/74436911)
