@@ -36,13 +36,13 @@ Currently, I am learning more deeply about Data Science, Data Engineering, and A
 ## GitHub Analytics & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SayMaven&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+  <img src="https://trophy.ryglcloud.net/?username=SayMaven&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayMaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api?username=SayMaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayMaven&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayMaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,powershell" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SayMaven&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,powershell" alt="Top Languages" />
 </p>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=54194385" target="_blank" style="display: block" align="center">
